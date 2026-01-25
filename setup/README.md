@@ -64,21 +64,16 @@ Ensure that you already have a Minecraft Account and the Default Minecraft Launc
 ![image](https://hackmd.io/_uploads/HJmk_Kgwyg.png)
 3. In the "World" tab, select "World Type: Superflat", and click "Customize". To to "Presets" on the bottom and select "Redstone Ready". Then click "Use Preset" and click "Done". Also Ensure "Generate Structures" is `OFF`.
 ![image](https://hackmd.io/_uploads/BkJ8_FxDye.png)
-4. Finally, go to the "More" tab, and click "Game Rules". Turn **OFF** all of the rules in **Spawning**, **Drops**, and **World Updates**.
 
-    ![image](https://hackmd.io/_uploads/ryUmYKxDJx.png)
-    
-    ![image](https://hackmd.io/_uploads/HyCQFFlwkg.png)
-    
-    ![image](https://hackmd.io/_uploads/Bk2VKKxDJl.png)
-
-5. Click "Done" and then "Create New World".
+4. Click "Done" and then "Create New World".
 
 ## Equipping the resourcepack
 1. Once you load into the world, equip the resourcepack by pressing "Esc", clicking on "Options...", "Resource Packs...", and clicking on icon of "MattPack 1.20.zip" to select it. Then, click Done.
 ![image](https://hackmd.io/_uploads/B1fvsFewkl.png)
 
 We will exclusively be using this resourcepack in class due to its sleek design and many utilities (showing redstone signal strength, clean wool/lamp design, etc.)
+
+With that, you are essentially done!
 
 ## Optimizations/Commands
 
