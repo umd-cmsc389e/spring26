@@ -16,7 +16,7 @@ Ensure that you already have a Minecraft Account and (optionally) the Default Mi
 
 ## Install Modpacks and Textures
 
-*Note, if you have your own client or are familiar with setting up mods/resourcepacks you may skip this section. If not, we highly suggest using the modpack given.*
+> Note, if you have your own client or are familiar with setting up mods/resourcepacks you may utilize the corresponding folders listed in this setup directory and skip this section. If not, we highly suggest using the modpack given.
 
 1. Download the Modrinth Client from https://modrinth.com/app.
 
