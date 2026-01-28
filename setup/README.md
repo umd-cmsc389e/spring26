@@ -4,9 +4,7 @@
 1. [Prerequisites](#prerequisites)
 2. [Installing the Modpack](#install-modrinth)
 3. [Creating a World for Redstone](#creating-a-world-for-redstone-testing)
-4. [Equipping the Resourcepack](#equipping-the-resourcepack)
-5. [Optimizations/Commands](#optimizationscommands)
-
+4. [Optimizations/Commands](#optimizationscommands)
 
 ## Prerequisites
 
@@ -79,13 +77,15 @@ Ensure that you already have a Minecraft Account and (optionally) the Default Mi
 
 5. Click "Done" and then "Create New World".
 
-## Equipping the resourcepack
+*We will exclusively be using the ***MattPack*** resourcepack in class due to its sleek design and many utilities (showing redstone signal strength, clean wool/lamp design, etc.)*
+
+<!-- ## Equipping the resourcepack
 1. Once you load into the world, equip the resourcepack by pressing "Esc", clicking on "Options...", "Resource Packs...", and clicking on icon of "MattPack 1.20.zip" to select it. Then, click Done.
 ![image](images/image5.png)
 
 We will exclusively be using this resourcepack in class due to its sleek design and many utilities (showing redstone signal strength, clean wool/lamp design, etc.)
 
-With that, you are essentially done!
+With that, you are essentially done! -->
 
 ## Optimizations/Commands
 
