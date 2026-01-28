@@ -27,6 +27,8 @@ Ensure that you already have a Minecraft Account and (optionally) the Default Mi
 
 >**Congratulations**, you have finished setup! If you wish, feel free to explore the launcher. You can change your skin or create other instances of Minecraft. If you're setting up for the first time, you shouldn't have any worlds yet.
 
+Also if you wish to use your *own clients*, the mods and resource packs used are available in the corresponding folders in this setup directory.
+
 <!-- ## Installing Fabric
 1. Download the Fabric Installer from https://fabricmc.net/use/installer/
  * Note for Linux: *Download universal installer (jar file), go to directory where fabric jar file was downloaded to, and run `java -jar fabric-installer.jar` (or whatever the installer file name is)*
