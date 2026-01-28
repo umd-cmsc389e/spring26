@@ -2,23 +2,34 @@
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
-2. [Installing Fabric](#installing-fabric)
-3. [Getting the Files](#getting-the-files)
-4. [Mods and Resourcepack Setup](#mods-and-resourcepack-setup)
-5. [Creating a World for Redstone](#creating-a-world-for-redstone)
-6. [Equipping the Resourcepack](#equipping-the-resourcepack)
-7. [Optimizations/Commands](#optimizationscommands)
+2. [Installing Fabric](#install-modrinth)
+3. [Creating a World for Redstone](#creating-a-world-for-redstone-testing)
+4. [Equipping the Resourcepack](#equipping-the-resourcepack)
+5. [Optimizations/Commands](#optimizationscommands)
 
 
 ## Prerequisites
 
-Ensure that you already have a Minecraft Account and the Default Minecraft Launcher installed. If you don’t you can get them here:
+Ensure that you already have a Minecraft Account and (optionally) the Default Minecraft Launcher installed. If you don’t you can get them here:
 - A Minecraft Account: https://www.minecraft.net/en-us/store/minecraft-deluxe-collection-pc
-- The Default Minecraft Launcher: https://www.minecraft.net/en-us/download
+- [OPTIONAL] The Default Minecraft Launcher: https://www.minecraft.net/en-us/download
 
 *Ensure that you are getting Minecraft **JAVA** Edition - this is very important!*
 
-## Installing Fabric
+## Install Modrinth
+1. Download the Modrinth Client from https://modrinth.com/app.
+
+2. Download the [Modrinth modpack file](https://github.com/umd-cmsc389e/projects/blob/main/setup/CMSC389E%201.0.0.mrpack), which is also available in this directory.
+
+3. Right-click and open the modpack file once downloaded. Once the launcher is opened, you will be prompted to sign into your Minecraft account, located in the top right. Please authenticate to your **Minecraft** account.
+![image](images/image1.png)
+
+4. In the lefthand navbar, you can navigate to the Minecraft instance labeled 'CMSC389E'. Here you should see all mods and resourcepacks prepared for the class. 
+![image](images/image2.png)
+
+>**Congratulations**, you have finished setup! If you wish, feel free to explore the launcher. You can change your skin or create other instances of Minecraft. If you're setting up for the first time, you shouldn't have any worlds yet.
+
+<!-- ## Installing Fabric
 1. Download the Fabric Installer from https://fabricmc.net/use/installer/
  * Note for Linux: *Download universal installer (jar file), go to directory where fabric jar file was downloaded to, and run `java -jar fabric-installer.jar` (or whatever the installer file name is)*
         
@@ -56,20 +67,21 @@ Ensure that you already have a Minecraft Account and the Default Minecraft Launc
     ![image](https://hackmd.io/_uploads/r1YTLtgPye.png)
 
 7. Done! Now go back to the "Installations" menu, and press "Play" to run Minecraft.
-![image](https://hackmd.io/_uploads/rJ0mvKxPyg.png)
+![image](https://hackmd.io/_uploads/rJ0mvKxPyg.png) -->
 
-## Creating a World for Redstone
-1. Now that you've opened the game, go to "Singleplayer" and click on "Create New World".
-2. In the "Game" tab, ensure you have the following settings:
-![image](https://hackmd.io/_uploads/HJmk_Kgwyg.png)
-3. In the "World" tab, select "World Type: Superflat", and click "Customize". To to "Presets" on the bottom and select "Redstone Ready". Then click "Use Preset" and click "Done". Also Ensure "Generate Structures" is `OFF`.
-![image](https://hackmd.io/_uploads/BkJ8_FxDye.png)
+## Creating a World for Redstone Testing
+1. In the Modrinth launcher, click the green play button (shown above).
+2. Now that you've opened the game, go to "Singleplayer" and click on "Create New World".
+3. In the "Game" tab, ensure you have the following settings:
+![image](images/image3.png)
+4. In the "World" tab, select "World Type: Superflat", and click "Customize". To to "Presets" on the bottom and select "Redstone Ready". Then click "Use Preset" and click "Done". Also Ensure "Generate Structures" is `OFF`.
+![image](images/image4.png)
 
-4. Click "Done" and then "Create New World".
+5. Click "Done" and then "Create New World".
 
 ## Equipping the resourcepack
 1. Once you load into the world, equip the resourcepack by pressing "Esc", clicking on "Options...", "Resource Packs...", and clicking on icon of "MattPack 1.20.zip" to select it. Then, click Done.
-![image](https://hackmd.io/_uploads/B1fvsFewkl.png)
+![image](images/image5.png)
 
 We will exclusively be using this resourcepack in class due to its sleek design and many utilities (showing redstone signal strength, clean wool/lamp design, etc.)
 
