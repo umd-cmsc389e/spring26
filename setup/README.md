@@ -14,7 +14,10 @@ Ensure that you already have a Minecraft Account and (optionally) the Default Mi
 
 *Ensure that you are getting Minecraft **JAVA** Edition - this is very important!*
 
-## Install Modrinth
+## Install Modpacks and Textures
+
+*Note, if you have your own client or are familiar with setting up mods/resourcepacks you may skip this section. If not, we highly suggest using the modpack given.*
+
 1. Download the Modrinth Client from https://modrinth.com/app.
 
 2. Download the [Modrinth modpack file](https://github.com/umd-cmsc389e/projects/blob/main/setup/CMSC389E%201.0.0.mrpack), which is also available in this directory.
@@ -26,8 +29,6 @@ Ensure that you already have a Minecraft Account and (optionally) the Default Mi
 ![image](images/image2.png)
 
 >**Congratulations**, you have finished setup! If you wish, feel free to explore the launcher. You can change your skin or create other instances of Minecraft. If you're setting up for the first time, you shouldn't have any worlds yet.
-
-Also if you wish to use your *own clients*, the mods and resource packs used are available in the corresponding folders in this setup directory.
 
 <!-- ## Installing Fabric
 1. Download the Fabric Installer from https://fabricmc.net/use/installer/
