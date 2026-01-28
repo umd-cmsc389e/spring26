@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
-2. [Installing the Modpack](#install-modrinth)
+2. [Installing the Modpack](#install-modpacks-and-textures)
 3. [Creating a World for Redstone](#creating-a-world-for-redstone-testing)
 4. [Optimizations/Commands](#optimizationscommands)
 
