@@ -77,7 +77,7 @@ Ensure that you already have a Minecraft Account and (optionally) the Default Mi
 
 5. Click "Done" and then "Create New World".
 
-*We will exclusively be using the ***MattPack*** resourcepack in class due to its sleek design and many utilities (showing redstone signal strength, clean wool/lamp design, etc.)*
+> Feel free to adjust other in-game settings (FOV, mouse sensitivity, keybinds) at your discretion. As you use redstone items, you'll notice we exclusively use the ***MattPack*** resourcepack due to its sleek design and many utilities (showing redstone signal strength, clean wool/lamp design, etc.).
 
 <!-- ## Equipping the resourcepack
 1. Once you load into the world, equip the resourcepack by pressing "Esc", clicking on "Options...", "Resource Packs...", and clicking on icon of "MattPack 1.20.zip" to select it. Then, click Done.
