@@ -1,6 +1,6 @@
 # CMSC389E Project 1 - Tutorial Island
 
-Due: **Friday, February 13th, 2026 at 11:59PM**
+Due: **Friday, February 20th, 2026 at 11:59PM**
 
 Prior to starting **Project 1**, ensure you have went through the entirety of the [Setup README](https://github.com/umd-cmsc389e/spring26/tree/main/setup). 
 
