@@ -5,23 +5,23 @@ Due: **Friday, February 13th, 2026 at 11:59PM**
 Prior to starting **Project 1**, ensure you have went through the entirety of the [Setup README](https://github.com/umd-cmsc389e/spring26/tree/main/setup). 
 
 ## Importing Projects
-To import the project, you need to download `project1 TEMPLATE.zip`, extract it, and move it into the `saves` folder of your Fabric installation folder. The easiest way of doing this is the following:
+To import the project, you need to download `project1 TEMPLATE.zip`, extract it, and move it into the `saves` folder of your Modrinth installation folder. The easiest way of doing this is the following:
 
 1. Download `project1 TEMPLATE.zip` from this directory
 2. Locate your `./Downloads` folder and extract the contents of `project1 TEMPLATE.zip`
 3. Locate the `project1` folder INSIDE of the folder you extracted into
-4. Use `Ctrl + X` on the `project1` folder to cut it, saving it into your clipboard
-5. Go to your Minecraft Launcher and locate the **Installation Folder** for `fabric-loader-1.20.1`, similar to what you did during setup. Click on "Open installations folder"
-![image](https://hackmd.io/_uploads/B1PLvzvwJl.png)
+4. Use `Ctrl + X` or `Cmd + X` on the `project1` folder to cut it, saving it into your clipboard
+5. Go to your Modrinth Launcher's and navigate to the CMSC389E instance we created during setup. Locate the button next to instance settings and click on **Open Folder**.
+![image](images/image1.png)
 6. Navigate to the `saves` folder, and use `Ctrl + V` to paste `project1`
-7. Finally, run Minecraft, go to "Singleplayer", and you should see **Project 0** has been successfully imported!
+7. Finally, click the `Play` button to open Minecraft, go to "Singleplayer", and you should see **Project 0** has been successfully imported!
 
 
 ## Submitting Projects
 Projects will be submitted and autograded via **Gradescope**. If you are not already in the **Gradescope**, the join code can be found in the syllabus. To submit the project, you will need to locate your `project1` world file, zip it into `project1.zip`, and submit it into the relevant Gradescope assignment. Here's a step-by-step:
 
-1. Go to your Minecraft Launcher and locate the **Installation Folder** for `fabric-loader-1.20.1`, similar to what you did during setup. Click on "Open installations folder"
-![image](https://hackmd.io/_uploads/B1PLvzvwJl.png)
+1. Go to your Modrinth Launcher's and navigate to the CMSC389E instance we created during setup. Locate the button next to instance settings and click on **Open Folder**.
+![image](images/image1.png)
 2. Go to the `saves` folder, right click on `project1`, and compress it to **ZIP File**. 
 3. Go to the Gradescope assignment and upload the relevant **ZIP File**.
 
