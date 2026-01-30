@@ -78,7 +78,7 @@ Ensure that you already have a Minecraft Account and (optionally) the Default Mi
 4. In the "World" tab, select "World Type: Superflat", and click "Customize". To to "Presets" on the bottom and select "Redstone Ready". Then click "Use Preset" and click "Done". Also Ensure "Generate Structures" is `OFF`.
 ![image](images/image4.png)
 
-5. Click "Done" and then "Create New World".
+5. Click "Done" and then "Create New World". If you're new to Minecraft, check out our [textbook](https://cmsc-389e.github.io/digital-logic-computer-architecture-minecraft/book/u1c2.html) or this [Minecraft Wiki](https://minecraft.wiki/w/Tutorial:Beginner%27s_guide).
 
 > Feel free to adjust other in-game settings (FOV, mouse sensitivity, keybinds) at your discretion. As you use redstone items, you'll notice we exclusively use the ***MattPack*** resourcepack due to its sleek design and many utilities (showing redstone signal strength, clean wool/lamp design, etc.). If you are new to Minecraft and this all sounds confusing, don't worry, we'll get you up to speed on Minecraft mechanics.
 
