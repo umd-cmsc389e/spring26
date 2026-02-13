@@ -14,7 +14,7 @@ To import the project, you need to download `project1 TEMPLATE.zip`, extract it,
 5. Go to your Modrinth Launcher's and navigate to the CMSC389E instance we created during setup. Locate the button next to instance settings and click on **Open Folder**.
 ![image](images/image1.png)
 6. Navigate to the `saves` folder, and use `Ctrl + V` to paste `project1`
-7. Finally, click the `Play` button to open Minecraft, go to "Singleplayer", and you should see **Project 1** has been successfully imported!
+7. Finally, click the `Play` button to open Minecraft, go to "Singleplayer", and you should see **Project 0** has been successfully imported!
 
 
 ## Submitting Projects
